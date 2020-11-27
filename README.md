@@ -20,4 +20,6 @@
 
 ## String
 > (Easy) 13. Roman to Integer </br>
+> (Easy) 14. Longest Common Prefix </br>
+> (Easy) 20. Valid Parentheses </br>
 > (Medium) 12. Integer to Roman </br>
