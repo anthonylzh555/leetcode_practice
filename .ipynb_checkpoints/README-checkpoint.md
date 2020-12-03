@@ -22,4 +22,8 @@
 > (Easy) 13. Roman to Integer </br>
 > (Easy) 14. Longest Common Prefix </br>
 > (Easy) 20. Valid Parentheses </br>
+> (Easy) 28. Implement strStr() </br>
+> (Easy) 38. Count and Say </br>
+> (Easy) 58. Length of Last Word </br>
+> (Easy) 67. Add Binary </br>
 > (Medium) 12. Integer to Roman </br>
