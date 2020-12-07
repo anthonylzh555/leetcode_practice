@@ -26,4 +26,7 @@
 > (Easy) 38. Count and Say </br>
 > (Easy) 58. Length of Last Word </br>
 > (Easy) 67. Add Binary </br>
+> (Easy) 125. Valid Palindrome </br>
+> (Easy) 344. Reverse String </br>
+> (Easy) 345. Reverse Vowels of a String </br>
 > (Medium) 12. Integer to Roman </br>
