@@ -29,4 +29,5 @@
 > (Easy) 125. Valid Palindrome </br>
 > (Easy) 344. Reverse String </br>
 > (Easy) 345. Reverse Vowels of a String </br>
+> (Easy) 383. Ransom Note </br>
 > (Medium) 12. Integer to Roman </br>
