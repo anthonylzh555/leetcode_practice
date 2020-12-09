@@ -30,4 +30,11 @@
 > (Easy) 344. Reverse String </br>
 > (Easy) 345. Reverse Vowels of a String </br>
 > (Easy) 383. Ransom Note </br>
+
 > (Medium) 12. Integer to Roman </br>
+
+## Math 
+> (Easy) 7. Reverse Integer </br>
+> (Easy) 9. Palindrome Number </br>
+> (Easy) 69. Sqrt(x) </br>
+> (Easy) 168. Excel Sheet Column Title </br>
