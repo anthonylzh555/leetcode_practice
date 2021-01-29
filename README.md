@@ -1,6 +1,7 @@
 # leetcode_practice
  - as title
  - nothing special
+ - "Hold the vision, trust the process."
 ## Array 
 > (Easy) 1. Two Sum </br>
 > (Easy) 26. Remove Duplicates from Sorted Array (in-place) </br>
@@ -39,3 +40,7 @@
 > (Easy) 9. Palindrome Number </br>
 > (Easy) 69. Sqrt(x) </br>
 > (Easy) 168. Excel Sheet Column Title </br>
+
+## Tree 
+> (Easy) 100. Same Tree
+> (Easy) 101. Symmetric Tree
