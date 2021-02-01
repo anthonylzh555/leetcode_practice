@@ -42,5 +42,6 @@
 > (Easy) 168. Excel Sheet Column Title </br>
 
 ## Tree 
-> (Easy) 100. Same Tree
-> (Easy) 101. Symmetric Tree
+> (Easy) 100. Same Tree </br>
+> (Easy) 101. Symmetric Tree </br>
+> (Easy) 104. Maximum Depth of Binary Tree </br>
